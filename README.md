@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack web applications with React, Next.js, Node.js, and PostgreSQL  <br>👯 I’m looking to collaborate on front-end or full stack projects  <br>🤝 I’m looking for help with advanced back-end architecture and scalability  <br>🌱 I’m currently learning deeper Node.js concepts and system design  <br>💬 Ask me about React, Next.js, TypeScript, and modern CSS tools  <br>⚡ Fun fact: I enjoy turning ideas into real projects and constantly improving my skills<br>
+🔭 Full Stack Developer with a passion for modern web technologies.  <br>👯 I’m looking to collaborate on front-end or full stack projects  <br>🤝 I’m looking for help with advanced back-end architecture and scalability  <br>🌱 I’m currently learning deeper Node.js concepts and system design  <br>💬 Ask me about React, Next.js, TypeScript, and modern CSS tools  <br>⚡ Fun fact: I enjoy turning ideas into real projects and constantly improving my skills<br>
 
 
 ## 🌐 Socials:
